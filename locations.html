@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Find a Club | Arizona Club Volleyball Finder</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
+     
+    <style>
+    #map {
+        height: 500px;       
+        margin: 100px auto;  
+        width: 90%;          
+        max-width: 1000px;   
+        border-radius: 8px;  
+        box-shadow: 0 0 10px rgba(0,0,0,0.2); 
+    }
+    body.locations-page header {
+        position: relative;
+    }
+    body.locations-page #map {
+        height: 500px;
+        margin: 40px auto;
+        width: 90%;
+        max-width: 1000px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.2);
+        z-index: 1;
+    }
+    </style>
+
+</head>
+<body class="locations-page">
+
+    <header>
+        <nav class="navbar">
+        <div class="brand">
+            <span class="site-title">Arizona Club Volleyball Finder</span>
+            <img src="images/logo1.png" alt="Arizona Club Volleyball Finder logo" class="logo" />
+        </div>
+        <button class="hamburger" aria-label="Menu">&#9776;</button>
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="club-finder.html">Find a Club</a></li>
+            <li><a href="locations.html">Locations</a></li>
+            <li><a href="club-info.html">Club Info</a></li>
+        </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div id="map"></div> 
+    </main>
+
+    <footer>
+        <p>&copy; 2025 Arizona Club Volleyball Finder</p>
+    </footer>
+    <script src="js/nav-toggle.js"></script>
+    <script src="js/map.js"></script>
+</body>
+</html>

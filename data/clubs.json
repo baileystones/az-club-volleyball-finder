@@ -1,0 +1,590 @@
+[
+  {
+    "GENDER": "Girls",
+    "CLUB": "347 Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Tia Kannapel- tiakannapel@gmail.com",
+    "CONTACT PHONE": "602-686-8462",
+    "AGES": "11s-17s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Altitude Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Matt Pritulsky- info@altitudevolleyball.com ",
+    "CONTACT PHONE": "480-209-2019",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Athletes Only VBC",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Cory Chandler- aovolleyballclub@gmail.com",
+    "CONTACT PHONE": "480-447-7089",
+    "AGES": "12s-17s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Arizona Sky Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["NW Valley", "MID/NE Valley"],
+    "CLUB EMAIL": "Julia Larish- info@azskyacademy.com",
+    "CONTACT PHONE": "602-705-4602",
+    "AGES": "9s-18s",
+    "INDIVIDUAL AGES": ["9s","10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Arizona Storm Elite",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Terri Spann- arizonastormelitevbc@gmail.com",
+    "CONTACT PHONE": "480-635-6794",
+    "AGES": "8s-18s",
+    "INDIVIDUAL AGES": ["8s","9s","10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Arizona Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Ben Markley- azvolleyballacademy@gmail.com",
+    "CONTACT PHONE": "602-525-9076",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Arizona Wild Volleyball Club",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Kasondra Bennett / Christine Clayton- azwildvolleyball@gmail.com",
+    "CONTACT PHONE": "520-243-3025",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Arizona Saguaros",
+    "GENERAL PRACTICE AREA": ["MID/SW Valley"],
+    "CLUB EMAIL": "Rosario Lopez- arizonasaguarosvolleyballclub@gmail.com",
+    "CONTACT PHONE": "623-341-4583",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Ascent Volleyball",
+    "GENERAL PRACTICE AREA": ["Northern AZ"],
+    "CLUB EMAIL": "Serena Wallace- serena.flagstaffascent@gmail.com",
+    "CONTACT PHONE": "-",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Aspire Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Ryan Tolman- aspirevolleyballaz@gmail.com",
+    "CONTACT PHONE": "480-208-1319",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Atomic Volleyball Club",
+    "GENERAL PRACTICE AREA": ["NW Valley", "MID/NE Valley"],
+    "CLUB EMAIL": "Tiffany & John Rusaw- info@atomicvolleyball.com",
+    "CONTACT PHONE": "602-935-8399",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Avalanche Athletics",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Amanda Brown- amanda@avalancheathletics.com",
+    "CONTACT PHONE": "-",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ Eclipse Volleyball",
+    "GENERAL PRACTICE AREA": ["SW Valley"],
+    "CLUB EMAIL": "Jessica Smith- azeclipsevolleyball@gmail.com",
+    "CONTACT PHONE": "602-791-5370",
+    "AGES": "12s-17s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ East Valley Juniors",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Jen Leo- jenleo@evjvolleyball.com",
+    "CONTACT PHONE": "480-220-9323",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ Kings Volleyball",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Bridgett King- bridgett@azkingsvb.com",
+    "CONTACT PHONE": "602-535-9222",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ Lightning",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Jim Burt- jburt10757@yahoo.com",
+    "CONTACT PHONE": "602-502-7298",
+    "AGES": "16s-18s",
+    "INDIVIDUAL AGES": ["16s", "17s", "18s"]
+
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ Outlaws Volleyball",
+    "GENERAL PRACTICE AREA": ["SW Valley"],
+    "CLUB EMAIL": "Kris Smith- azoutlawsvolleyballclub@gmail.com",
+    "CONTACT PHONE": "KS 602-679-0309 / SO 623-826-6333",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZ Strike Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Tuan Nguyen- tuan@strikevb.com",
+    "CONTACT PHONE": "480-757-0659",
+    "AGES": "11s-16s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "AZONE Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley", "MID/NE Valley"],
+    "CLUB EMAIL": "Keith Montoya- azonevolleyball@yahoo.com",
+    "CONTACT PHONE": "602-397-4663",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Beauty 2 Beast",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Alex Ramirez- beauty2beastvolleyball@gmail.com",
+    "CONTACT PHONE": "602-635-6794",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Boltz Volleyball Club",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Amishawn Krein- ladyboltzvolleyball@gmail.com",
+    "CONTACT PHONE": "602-908-1198",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Casa Grande Volleyball Club",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Pat Miller- cgvbc@outlook.com",
+    "CONTACT PHONE": "314-513-2090",
+    "AGES": "14s-16s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Chino Valley Crush",
+    "GENERAL PRACTICE AREA": ["Northern AZ"],
+    "CLUB EMAIL": "Kerrie Long- kerrie@cvcrushvolleyball.com",
+    "CONTACT PHONE": "928-925-2326",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club Cactus Volleyball",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Bill Lang- info@clubcactusvolleyball.com",
+    "CONTACT PHONE": "520-906-6668",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club Cochise",
+    "GENERAL PRACTICE AREA": ["Southern AZ"] ,
+    "CLUB EMAIL": "Rebekka Edwards- clubcochisevb@gmail.com",
+    "CONTACT PHONE": "520-559-3806",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club Mana",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Natasha Laikona- info@clubmana.org",
+    "CONTACT PHONE": "602-221-0205",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club One AZ",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "David & Larisa Ronda- info@cluboneaz.com",
+    "CONTACT PHONE": "480-203-5266",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club Payson",
+    "GENERAL PRACTICE AREA": ["Northern AZ"],
+    "CLUB EMAIL": "Shelli Creighton- shelli.creighton@pusd.com",
+    "CONTACT PHONE": "928-595-1275",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club VOS Chandler/Gilbert",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Brittany Walker- brittany.walker@vosymca.org",
+    "CONTACT PHONE": "480-899-9622",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club VOS Chris-Town",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Tristan Fatula- tristan.fatula@vosymca.org",
+    "CONTACT PHONE": "602-242-7717",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club VOS Desert Foothills",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Drew Master- dmaster@vosymca.org",
+    "CONTACT PHONE": "480-596-9622",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club VOS East Valley",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Jacob Moreno- jacob.moreno@vosymca.org",
+    "CONTACT PHONE": "480-649-9622",
+    "AGES": "11s-16s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Club VOS Tempe",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Collin Mcclintic- clooin.mcclintic@vosymca.org",
+    "CONTACT PHONE": "480-730-0240",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Colorado River VBC",
+    "GENERAL PRACTICE AREA": ["Northern AZ"],
+    "CLUB EMAIL": "Daniel Maya- dmaya@parkerusd.org",
+    "CONTACT PHONE": "928-580-6657",
+    "AGES": "14s-18s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Diablos Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Tana Kinard- ladydiablosvolleyball@gmail.com",
+    "CONTACT PHONE": "623-570-2768",
+    "AGES": "14s-18s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Elevate Volleyball",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Bryan Heckler- bryanheckler1@gmail.com",
+    "CONTACT PHONE": "602-315-1070",
+    "AGES": "15s-18s",
+    "INDIVIDUAL AGES": ["15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Evolve Volleyball Club",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Brian Curry - evolvevbclub@gmail.com",
+    "CONTACT PHONE": "602-859-5830",
+    "AGES": "12s-16s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Fuerza Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Mario Molina- Zorrillo3791@gmail.com",
+    "CONTACT PHONE": "480-276-8910",
+    "AGES": "16s",
+    "INDIVIDUAL AGES": ["16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Gila Valley Juniors",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Tye Stewart- gilavalleyjrs2010@gmail.com",
+    "CONTACT PHONE": "928-651-5245",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Gunners Volleyball Club",
+    "GENERAL PRACTICE AREA": ["SW Valley"],
+    "CLUB EMAIL": "Freddie Jordan- gunnersvolleyballclub@gmail.com",
+    "CONTACT PHONE": "623-882-6324",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Hawaiian Time AZ Volleyball Club",
+    "GENERAL PRACTICE AREA": ["MID/SW Valley"],
+    "CLUB EMAIL": "Raeleen Naki-Bajet- HawaiianTimeAZ@gmail.com",
+    "CONTACT PHONE": "480-869-2487",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Havoc Volleyball Club",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"] ,
+    "CLUB EMAIL": "Darryl Gregg- CoachD@havocvbc.com",
+    "CONTACT PHONE": "602-799-0049",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Ignite VBC",
+    "GENERAL PRACTICE AREA": ["MID/NE Valley"],
+    "CLUB EMAIL": "Shawn Covely- shawncovely@ignitevbclub.com",
+    "CONTACT PHONE": "919-413-7311",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "I.C.E. Athletics Volleyball",
+    "GENERAL PRACTICE AREA": ["SW Valley"],
+    "CLUB EMAIL": "LaToya Sibley- iceathleticsaz@gmail.com",
+    "CONTACT PHONE": "602-826-5636",
+    "AGES": "13s-16s",
+    "INDIVIDUAL AGES": ["13s", "14s", "15s", "16s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Livewire Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley", "MID/NE Valley"], 
+    "CLUB EMAIL": "Chad Speer- livewirevolleyball@gmail.com",
+    "CONTACT PHONE": "602-970-4431",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Revolution Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["MID/NW Valley"],
+    "CLUB EMAIL": "Amanda Burbridge- revolutionvolleyballacademy@gmail.com",
+    "CONTACT PHONE": "602-524-3269",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Starlings Maricopa",
+    "GENERAL PRACTICE AREA": ["Southern AZ", "SW Valley"],
+    "CLUB EMAIL": "Danielle Gonzalez- maricopa.starlings.vbc@gmail.com",
+    "CONTACT PHONE": "-",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Surprise Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["MID/NW Valley"],
+    "CLUB EMAIL": "Arrianna Ramirez- support@surprisevolleyballacademy.org",
+    "CONTACT PHONE": "623-628-9676",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Velocity VBC",
+    "GENERAL PRACTICE AREA": ["Northern AZ"],
+    "CLUB EMAIL": "Andrea Ashkie- velocityazvolleyball@gmail.com",
+    "CONTACT PHONE": "-",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Venom VBC",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Jimmy Gonzalez- venomvolleyballclubaz@gmail.com",
+    "CONTACT PHONE": "480-688-4332",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+   {
+    "GENDER": "Girls",
+    "CLUB": "Victorium Volleyball",
+    "GENERAL PRACTICE AREA": ["MID/NW Valley"],
+    "CLUB EMAIL": "Jeff Fox- jeff.fox@victorium.com",
+    "CONTACT PHONE": "480-264-7089",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Girls",
+    "CLUB": "Zona Volleyball",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Matt Dyck- zonavolleyballclub@gmail.com",
+    "CONTACT PHONE": "520-444-7231",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "ACE Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Chad Kreikamp- Chad@acevb.net",
+    "CONTACT PHONE": "480-889-4599",
+    "AGES": "15s-18s",
+    "INDIVIDUAL AGES": ["15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Arizona Fear",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Troy Dueling- fearadmin@azfearvbc.com",
+    "CONTACT PHONE": "623-262-0276",
+    "AGES": "14s-18s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Aspire Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Ryan Tolman- aspirevolleyballaz@gmail.com",
+    "CONTACT PHONE": "480-208-1319",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Ignite Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Shawn Covely- shawncovely@ignitevbclub.com",
+    "CONTACT PHONE": "480-975-3467",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Livewire Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Chad Speer- livewireboysbv@gmail.com",
+    "CONTACT PHONE": "623-300-6800",
+    "AGES": "16s-18s",
+    "INDIVIDUAL AGES": ["16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Matrix Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Kendra Ritter- kendra.Matrix@gmail.com",
+    "CONTACT PHONE": "623-313-2574",
+    "AGES": "14s-18s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Molten VBC",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Brian Hiapo- moltenvbc.az@gmail.com",
+    "CONTACT PHONE": "480-215-6075",
+    "AGES": "11s-18s",
+    "INDIVIDUAL AGES": ["11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+   {
+    "GENDER": "Boys",
+    "CLUB": "Nexus Volleyball",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Kassie Zachman- Contact form on website(nexusyouthsports.com) ",
+    "CONTACT PHONE": "-",
+    "AGES": "17s-18s",
+    "INDIVIDUAL AGES": ["17s", "18s"]
+
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Rush Volleyball",
+    "GENERAL PRACTICE AREA": ["Southern AZ"],
+    "CLUB EMAIL": "Tim Zemp- tim@rushvolleyball.com",
+    "CONTACT PHONE": "801-857-0650",
+    "AGES": "12s-18s",
+    "INDIVIDUAL AGES": ["12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Sidewinder Volleyball Academy",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Andrew Adair- director@sidewinderva.com",
+    "CONTACT PHONE": "520-850-3467",
+    "AGES": "13s-18s",
+    "INDIVIDUAL AGES": ["13s", "14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Strikers Volleyball Club",
+    "GENERAL PRACTICE AREA":["SW Valley"] ,
+    "CLUB EMAIL": "Josh Daniels- strikersclubvolleyball@gmail.com",
+    "CONTACT PHONE": "714-553-6964",
+    "AGES": "14s-18s",
+    "INDIVIDUAL AGES": ["14s", "15s", "16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Tormenta Volleyball Club",
+    "GENERAL PRACTICE AREA": ["NW Valley"],
+    "CLUB EMAIL": "Fernando Gonzalez- tormentavolleyball@gmail.com",
+    "CONTACT PHONE": "305-431-7917",
+    "AGES": "16s-18s",
+    "INDIVIDUAL AGES": ["16s", "17s", "18s"]
+  },
+  {
+    "GENDER": "Boys",
+    "CLUB": "Victory Volleyball",
+    "GENERAL PRACTICE AREA": ["SE Valley"],
+    "CLUB EMAIL": "Jeff Grover- azvictoryvbc@gmail.com",
+    "CONTACT PHONE": "602-538-8700",
+    "AGES": "10s-18s",
+    "INDIVIDUAL AGES": ["10s", "11s", "12s", "13s", "14s", "15s", "16s", "17s", "18s"]
+  }
+]

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Find a Club | Arizona Club Volleyball Finder</title>
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="brand">
+        <span class="site-title">Arizona Club Volleyball Finder</span>
+        <img src="images/logo1.png" alt="Arizona Club Volleyball Finder logo" class="logo" />
+      </div>
+      <button class="hamburger" aria-label="Menu">&#9776;</button>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="club-finder.html">Find a Club</a></li>
+        <li><a href="locations.html">Locations</a></li>
+        <li><a href="club-info.html">Club Info</a></li>
+      </ul>
+    </nav>
+  </header>
+
+    <main>
+    <div class="banner">
+        <video autoplay muted loop>
+            <source src="videos/banner-video.mp4" type="video/mp4">
+        </video>
+    </div>
+    <section class="hero-container">
+      <section class="form-wrapper">
+
+        <aside id="eligibility-box">
+          <div class="slideshow">
+            <div class="slide active">
+              <h3>Club Search Basics</h3>
+              <p>This form helps you find clubs based on gender, age group, and location.</p>
+              <p>USA Volleyball uses birth year to determine eligibility.</p>
+              <p>Search by gender & add additional categories as desired.</p>
+            </div>
+            <div class="slide">
+              <h3>Age Definitions</h3>
+              <p>𖦹18 & Under Division:
+                Players born on/after July 1, 2007 
+                <br>*(OR players born on/after July 1, 2006 & a HS student during some part of the current academic year)
+                <br><br>      
+                ꩜17 & Under: Players born on/after July 1, 2008
+                <br>
+                𖦹16U: Players born on/after July 1, 2009
+                <br>
+                ꩜15U: Players born on/after July 1, 2010
+                <br>
+                𖦹14U: Players born on/after July 1, 2011
+                <br>
+                ꩜13U: Players born on/after July 1, 2012
+                <br>
+                𖦹12U: Players born on/after July 1, 2013
+                <br>
+                ꩜11U: Players born on/after July 1, 2014
+                <br>
+                𖦹10U: Players born on or after July 1, 2015</p>
+            </div>
+            <div class="slide">
+                <h3>Girls Club Calendar</h3>
+                <p>The high school volleyball season occurs in the fall and typically runs from August to November, & the typical club season starts in November and runs until around June</p>
+                <p>𖦹Club tryouts for 14u teams can occur the first weekend of November 
+                <br>
+                ꩜Club tryouts for 15s-18s teams can occur the third Saturday of November</p>
+            </div>
+            <div class="slide">
+              <h3>Boys Club Calendar</h3>
+              <p>The high school season occurs in the spring and typically runs from February to May</p>
+              <p>The first part of boys club season occurs in the fall, running from September to December</p>
+              <p> Boys Nationals are typically in June, so after the high school season is finished, the boys may pick up again to prepare for end of season tournaments</p>
+              <p>While the high school boys are playing school ball, the 14u boys may compete in spring season from March-May</p>
+              <p>𖦹Club tryouts for all ages can occur the second Saturday of August</p>
+            </div>
+            <div class="slideshow-dots">
+                <span class="dot" data-slide="0"></span>
+                <span class="dot" data-slide="1"></span>
+                <span class="dot" data-slide="2"></span>
+                <span class="dot" data-slide="3"></span>
+            </div>
+
+            <div class="slideshow-controls">
+              <button id="prev"><i class="fas fa-chevron-left"></i></button>
+              <button id="next"><i class="fas fa-chevron-right"></i></button>
+            </div>
+          </div>
+        </aside>
+
+        <section class="form-section">
+          <h2>Find a Volleyball Club</h2>
+          <form id="club-filter-form">
+            <fieldset>
+              <legend>Gender: <span class="required">*</span></legend>
+              <label><input type="radio" name="gender" value="Girls" required /> Girls</label>
+              <label><input type="radio" name="gender" value="Boys" required /> Boys</label>
+            </fieldset>
+
+            <label for="area">General Practice Area:</label>
+            <select id="area" name="area">
+              <option value="">--Select--</option>
+              <option value="NW Valley">NW Valley</option>
+              <option value="NE Valley">NE Valley</option>
+              <option value="SW Valley">SW Valley</option>
+              <option value="SE Valley">SE Valley</option>
+              <option value="Southern AZ">Southern AZ</option>
+              <option value="Northern AZ">Northern AZ</option>
+            </select>
+
+            <label for="age">Target Age Group:</label>
+            <select id="age" name="age">
+              <option value="">--Select--</option>
+              <option value="10s">10s</option>
+              <option value="11s">11s</option>
+              <option value="12s">12s</option>
+              <option value="13s">13s</option>
+              <option value="14s">14s</option>
+              <option value="15s">15s</option>
+              <option value="16s">16s</option>
+              <option value="17s">17s</option>
+              <option value="18s">18s</option>
+            </select>
+
+            <button type="submit">Search</button>
+          </form>
+
+          <div id="results"></div>
+        </section>
+      </section>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Arizona Club Volleyball Finder</p>
+  </footer>
+  <script src="js/form-filter.js" defer></script>
+  <script src="js/nav-toggle.js" defer></script>
+</body>
+</html>
