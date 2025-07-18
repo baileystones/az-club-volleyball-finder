@@ -67,7 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 
-  // === SLIDESHOW ===
   const slides = document.querySelectorAll('.slide');
   const nextBtn = document.getElementById('next');
   const prevBtn = document.getElementById('prev');

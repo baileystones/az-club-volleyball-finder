@@ -423,3 +423,6 @@ form label {
     align-items: center;
   }
 }
+.fa-rotate-by {
+  transform: rotate(var(--fa-rotate-angle, 0deg)) !important;
+}
